@@ -9,13 +9,13 @@
 
 ## The app use `yargs` to parse the arguments taken from the command line.
 
-### 1. To add a new note run `node app.js add --title="{your title}" --body="{content of your note}"`.
+##### 1. To add a new note run `node app.js add --title="{your title}" --body="{content of your note}"`.
 
-### 2. To remove a note run `node app.js remove --title="{your title}"`
+##### 2. To remove a note run `node app.js remove --title="{your title}"`
 
-### 3. To list all the titles of your notes run `node app.js list`
+##### 3. To list all the titles of your notes run `node app.js list`
 
-### 4. To read the content of one note run `node app.js --title="{title of the note to read}"`
+##### 4. To read the content of one note run `node app.js --title="{title of the note to read}"`
 
 ## Notes
 
